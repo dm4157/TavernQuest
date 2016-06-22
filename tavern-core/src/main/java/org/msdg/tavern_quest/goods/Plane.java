@@ -1,8 +1,5 @@
 package org.msdg.tavern_quest.goods;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 /**
  * 目标位面(目标页描述)
  *
